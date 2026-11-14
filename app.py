@@ -1097,7 +1097,7 @@ def login():
     <!DOCTYPE html>
     <html lang="sk">
     <head><meta charset="UTF-8"><title>Prihlásenie</title></head>
-    <body style="font-family:sans-serif; background:#fff; padding:40px; text-align:center;">
+   <meta name="google-site-verification" content="eF8rjJxcAPrZdfo7--2dZhp42LRAP1HPoXdvfude2xM" /> <body style="font-family:sans-serif; background:#fff; padding:40px; text-align:center;">
         <h2>Prihlásenie</h2>
         {f'<p style="background:#fee2e2; border:1px solid #fca5a5; color:#dc2626; padding:10px; border-radius:6px; max-width:300px; margin:0 auto 15px auto; font-size:13px; font-weight:bold;">{error_msg}</p>' if error_msg else ''}
         <form method="post" style="max-width:300px; margin:auto;">
